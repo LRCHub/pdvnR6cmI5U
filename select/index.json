@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "まちがいさがし",
+  "base_artist": "Masaki Suda",
+  "createdAt": "2026-03-06T04:30:33.544306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_まちがいさがし_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_まちがいさがし_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/03_まちがいさがし_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/04_まちがいさがし_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/05_まちがいさがし_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/06_まちがいさがし_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/07_まちがいさがし_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/08_まちがいさがし_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/09_まちがいさがし_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/10_まちがいさがし_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/11_まちがいさがし_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "まちがいさがし (Machigai Sagashi)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/12_まちがいさがし_(Machigai_Sagashi)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "まちがいさがし - Machigaisagashi",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/13_まちがいさがし_-_Machigaisagashi_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "まちがいさがし - Machigaisagashi",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/14_まちがいさがし_-_Machigaisagashi_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "米津玄师 Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/15_まちがいさがし_米津玄师_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/16_まちがいさがし_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "まちがいさがし",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/17_まちがいさがし_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "まちがいさがし / Machigai Sagashi",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/18_まちがいさがし___Machigai_Sagashi_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_02_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_03_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_04_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_05_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_06_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_07_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_08_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_09_まちがいさがし_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "まちがいさがし",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_10_まちがいさがし_菅田将暉.txt"
+    }
+  ]
+}
